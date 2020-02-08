@@ -1,4 +1,4 @@
-# [ImageCompressor.io]!
+# [ImageCompressor.io](https://imagecompressor.io)
 
 A modern image compression tool to optimize images. 
 
@@ -9,5 +9,4 @@ JPEG/JPG files are compressed using [MozJPEG](https://github.com/mozilla/mozjpeg
 ## Technology
 
 Front End is built using [React](https://github.com/facebook/react) & [Ant Design](https://github.com/ant-design/ant-design). Backend is [.NET Core](https://github.com/dotnet/core).
-
-[imagecompressor.io]: https://imagecompressor.io
+ 
